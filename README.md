@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KinoVestnik/Vseti-apk/main/assets/vseti-icon.png" width="96" alt="Vseti">
+  <img src="https://raw.githubusercontent.com/KinoVestnik/Vseti-apk/main/assets/vseti-tv-banner.png" width="720" alt="Vseti для Android TV">
 </p>
 
 <h1 align="center">Vseti для Android и Android TV</h1>
@@ -24,7 +24,8 @@
 
 - стартовая страница `vseti.click`;
 - интерфейс для Android и Android TV;
-- фирменная иконка и TV-баннер Vseti;
+- квадратная фирменная иконка приложения;
+- отдельный широкий баннер для лаунчеров Android TV;
 - встроенная проверка новых версий;
 - обновления только из этого официального репозитория Vseti.
 
