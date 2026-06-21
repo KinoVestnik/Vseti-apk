@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KinoVestnik/Vseti-apk/releases/latest"><img src="https://img.shields.io/github/v/release/KinoVestnik/Vseti-apk?label=версия&color=7c3aed" alt="Последняя версия"></a>
-  <a href="https://github.com/KinoVestnik/Vseti-apk/releases/latest"><img src="https://img.shields.io/github/downloads/KinoVestnik/Vseti-apk/total?label=загрузки&color=2563eb" alt="Загрузки"></a>
+  <a href="https://github.com/KinoVestnik/Vseti-apk/releases/latest"><img src="https://img.shields.io/github/v/release/KinoVestnik/Vseti-apk?label=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F&amp;color=7c3aed" alt="Последняя версия"></a>
+  <a href="https://github.com/KinoVestnik/Vseti-apk/releases/latest"><img src="https://img.shields.io/github/downloads/KinoVestnik/Vseti-apk/total?label=%D0%B7%D0%B0%D0%B3%D1%80%D1%83%D0%B7%D0%BA%D0%B8&amp;color=2563eb" alt="Загрузки"></a>
   <img src="https://img.shields.io/badge/Android-4.1%2B-3DDC84?logo=android&logoColor=white" alt="Android 4.1+">
 </p>
 
